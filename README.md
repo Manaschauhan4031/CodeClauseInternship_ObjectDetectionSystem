@@ -1,1 +1,1 @@
-# CodeClauseInternship_ObjectDetectionSystem
+# ObjectDetectionSystem
